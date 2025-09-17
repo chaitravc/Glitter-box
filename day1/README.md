@@ -1,6 +1,6 @@
 
 
-# Glitter Box- Day 1
+# Glimmer Box- Day 1
 
 
 
@@ -27,14 +27,14 @@
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/chaitravc/Glitter-box.git
+   git clone https://github.com/chaitravc/Glimmer-box.git
    ```
 
 
 2. Navigate to the project folder:
 
    ```bash
-   cd Glitter-box
+   cd Glimmer-box
    ```
 3. Open `index.html` in your preferred web browser.
 
