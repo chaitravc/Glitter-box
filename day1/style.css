@@ -1,0 +1,65 @@
+.choiceitems img{
+    width: 150px;
+    height: 170px;
+    padding: 4px;
+    border-radius: 50%;
+    border: solid 3px black
+}
+
+.choice{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 6px;
+
+}
+
+.choice img:hover
+{
+    transition: 0.5s;
+    border: 2px solid rgb(68, 66, 66);
+    box-shadow: 2px 2px 11px rgb(43, 40, 42);
+}
+
+.nav, p
+{
+    color: rgb(103, 4, 65);
+
+}
+
+#bar
+{
+    width: 780px;
+    height: 30px;
+}
+
+.explore
+{
+    color: rgb(103, 4, 65);   
+}
+
+.diamonds
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.diamonditems img{
+    border-radius: 20px;
+    width: 300px;
+    height: 250px;
+    padding: 8px;
+}
+
+.diamonditems
+{
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.diamonditems img:hover
+{
+    box-shadow: 3px 3px 8px  rgb(103, 4, 65);
+    transition: 0.3s;
+}
