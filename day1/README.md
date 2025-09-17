@@ -42,7 +42,7 @@
 
 ## 📂 Project Structure
 
-
+```
 jewelry-portfolio/
 │
 ├── images/                 # Regular jewelry images
@@ -67,6 +67,7 @@ jewelry-portfolio/
 
 <img width="1920" height="1020" alt="Screenshot 2025-09-17 165016" src="https://github.com/user-attachments/assets/5f3c0828-2b92-455f-9b5d-4c5894a9e778" />
 
+---
 <img width="1920" height="1020" alt="Screenshot 2025-09-17 165027" src="https://github.com/user-attachments/assets/1bc66a99-e895-4d68-94a4-d2e5e2261552" />
 
 
